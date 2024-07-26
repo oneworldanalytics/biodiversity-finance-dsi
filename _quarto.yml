@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "Resources for the LSE Roundtable on Biodiversity Finance and Digital Sequence Information"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
