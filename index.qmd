@@ -10,7 +10,4 @@ title: "biodiversity-finance-dsi"
 4.  [Exploration of the biodiversity finance landscape](https://www.cbd.int/doc/c/e761/abc8/a3a6b3d8c118f389ac6b8d8c/sbi-04-inf-10-en.pdf) (Secretariat Study)
 5.  [Lessons Learned from Other International Funding Mechanisms](https://www.cbd.int/doc/c/614a/6fec/ae55835cbe586f697f9bcc99/wgdsi-01-02-add2-rev1-en.pdf) (Secretariat Study)
 6.  [Executive Summary of DSI Studies](https://www.cbd.int/doc/c/2236/870d/df42f0c0e104ad6a48d1d4d9/wgdsi-02-02-add2-en.pdf) (Secretariat Commissioned Studies, pre-peer review corrections, low quality)
-
-## Digital Sequence Information
-
-hello
+7.  
