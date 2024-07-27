@@ -1,0 +1,119 @@
+---
+title: ""
+---
+
+### Key Resources for Economists
+
+This page provides resources for economists for the LSE Roundtable on Global Biodiversity Finance and Digital Sequence Information.
+
+Parties to the [Convention on Biological Diversity](https://www.cbd.int/) have decided to establish a multilateral mechanism on digital sequence information including a new fund. COP16 in Cali, Colombia in October 2016 will make key decisions about the size of the new fund, who will contribute, and how the fund will be organised in terms of contributions and disbursements. Many challenging questions remain and Parties will need to clarify the options available to them in order to take a decision by consensus on ways forward.
+
+### What Are We Talking About?
+
+In essence, digital sequence information refers to the genetic make up of an organism in digital form arising from the sequencing of organisms and the rise of genomics, proteomics and other omics. In the scientific community, digital sequence information would commonly simply be called genetic sequence data. The dramatic expansion of the sequencing of organisms in the early 21st Century has led to exponential growth in the volume of sequence data (see Shatz et al 2015 [Big Data: Astronomical or Genomical](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002195)). That data is economically important for a range of industry sectors including biotechnology, agriculture and health and pharmaceuticals. That data is increasingly important for next generation technologies combining biology and artificial intelligence such as [Google AlphaFold](https://deepmind.google/technologies/alphafold/) for protein modelling and synthetic biology or engineering biology. The data may be accessed through public domain databases such as those operated by the [International Nucleotide Sequence Database Collaboration](https://www.insdc.org/) (the US, Europe and Japan) or is stored in an unknown number of private databases.
+
+### The Policy Debate
+
+In 2010 Parties to the Convention on Biological DIversity adopted the [Nagoya Protocol on Access to Genetic Resources and Benefit-Sharing Arising from the Utilization of Genetic Resources](https://www.cbd.int/abs). The Protocol arose from concerns expressed by developing countries about the misappropriation ("biopiracy") of genetic resources and traditional knowledge in areas such as medicine and agriculture in the context of the increasing globalisation of intellectual property rights, notably patent rights, under the WTO [TRIPS Agreement](https://www.wto.org/english/tratop_e/trips_e/intel2_e.htm). The Nagoya Protocol requires that those seeking to access genetic resources must obtain the prior informed consent of the relevant government and establish a contractual agreement setting out the terms of benefit-sharing. In an important advance in international environmental law, additional requirements are included in the Protocol to promote respect for the rights of Indigenous Peoples and Local Communities as the stewards of global biodiversity.
+
+To date, 141 governments and the European Union have ratified the Nagoya Protocol. However, the Nagoya Protocol is silent on the question of whether digital sequence information is covered. This leaves it a matter for governments to decide whether it is covered under national legislation or not and whether benefit sharing is required. On balance and in very broad terms, in the period to 2020 developing countries adopted the view that DSI is covered and developed countries adopted the opposite view.
+
+The Nagoya Protocol represents a bilateral approach to access to genetic resources and benefit sharing because it requires a bilateral agreement between a 'provider' of the genetic resources (typically a government and may involve indigenous peoples and local communities) and a 'user' (a company or university). This approach is grounded in the sovereignty of countries over their natural resources. However, the bilateral contract approach led to substantive criticism in favour of a multilateral approach during the negotiation of the Nagoya Protocol by economist Joseph Vogel and Manuel Ruiz Muller and, to a lesser degree by Oldham. Following the adoption of the Nagoya Protocol criticism has mounted from the private sector and some members of the science sector of the inefficiency and bureaucracy of this Nagoya Protocol. Debates on digital sequence information led Parties to increasingly favour a multilateral approach to digital sequence information with key tensions existing between those who adopt the position that the Nagoya Protocol and multi-lateral mechanism can operate together and those, notably from some sectors of science and industry, who argue that the Nagoya Protocol must be 'switched off' in favour of a purely multilateral approach to both physical and digital genetic resources (see Halewood et al 2023 below). COP15 [decision 15/9](https://www.cbd.int/doc/decisions/cop-15/cop-15-dec-09-en.pdf) did not resolve these conflicting views but did agree to establish a multilateral mechanism for the sharing of the benefits from digital sequence information based on set of criteria as follows.
+
+(a) Be efficient, feasible and practical;
+(b) Generate more benefits, including both monetary and non-monetary, than costs;
+(c) Be effective;
+(d) Provide certainty and legal clarity for providers and users of digital sequence information on genetic resources;
+(e) Not hinder research and innovation;
+(f) Be consistent with open access to data;
+(g) Not be incompatible with international legal obligations;
+(h) Be mutually supportive of other access and benefit-sharing instruments;
+(i) Take into account the rights of indigenous peoples and local communities, including with respect to the traditional knowledge associated with genetic resources that they hold;
+
+[Decision 15/9](https://www.cbd.int/doc/decisions/cop-15/cop-15-dec-09-en.pdf) also commissioned three studies:
+
+a\) to review lessons learned from other funding mechanisms (available here [Lessons Learned from Other International Funding Mechanisms](https://www.cbd.int/doc/c/614a/6fec/ae55835cbe586f697f9bcc99/wgdsi-01-02-add2-rev1-en.pdf) )
+
+b\) A study to analyse and model the extent to which a multilateral mechanism for benefit-sharing from the use of digital sequence information on genetic resources
+
+c\) A study on the options for revenue-generating measures at different points along the value chain, the feasibility of their implementation and their costs relative to their potential revenue.
+
+### Revenue Generation Models
+
+A range of studies and proposals have emerged for revenue generation measures for the digital sequence information fund. With rare exceptions, these studies do not contain numbers. This in part reflects underlying difficulties in the valuation of the subject matter and a lack of engagement with economists. However, growing engagement with economists elsewhere under the Convention such as the work of the [expert group on resource mobilisation](https://www.cbd.int/doc/c/0515/ee60/ec8cd404a514fc6bc613c156/reports-panelexperts-overview-en.pdf), the [BIOFIN initiative](https://www.biofin.org/) in connection with [National Biodiversity Finance Plans](https://www.biofin.org/news-and-media/new-era-national-biodiversity-finance-plans-emerges) and the transition to [natural capital accounting](https://seea.un.org/home/Natural-Capital-Accounting-Project) within the wider UN system suggests that there is ample scope for contributions from economists.
+
+Existing proposals for models mainly take the forms of sketches they can be described in broad terms as follows:
+
+a)  A public domain model that switches off existing bilateral arrangements on benefit-sharing for physical genetic resources (optional) and digital sequence information in return for access to an (indeterminate) fund.
+b)  A percentage of sales of individual commercial products that have been developed using digital sequence information
+c)  X % of turnover, profit or value of exports from relevant sectors substantially reliant on digital sequence information
+d)  Charges against the use of the biodiversity and life science infrastructure using cloud pricing models (Big Data and Artificial Intelligence).[^1]
+e)  A contribution of 1 % of retail sales of biodiversity-based products sold in developed countries (the Africa Group)
+f)  Other measures such as a royalty rates on patent holders (as advanced in the literature by Vogel and Muller), biodiversity bonds, biodiversity tokens, milestone payments (such as when products hit sales targets) or debt-swaps.
+g)  Other methods that have not been considered in the CBD context includes relying on technological means of mapping aggregate usage of DSI using a range of factors comprising ‘utilization’ indicators including publications, patents and development of products (such as in the BBNJ agreement)
+
+[^1]: Advanced by Oldham (2020) and Oldham and Kindness (2022). For literature on cloud pricing models see Wu et al 2019 [Cloud Pricing Models: Taxonomy, Survey, and Interdisciplinary Challenges](https://dl.acm.org/doi/abs/10.1145/3342103) and on cloud storage pricing see Khan et al 2024 [Cloud storage cost: a taxonomy and survey](https://dl.acm.org/doi/10.1007/s11280-024-01273-4).
+
+The recent [Co-Chairs reflection paper](https://www.cbd.int/doc/c/50f2/3f82/e1db68327616c51aae0cd29f/wgdsi-02-02-add1-en.pdf) in paras 10(a) and 10(b). This is summarised in a [press release](https://www.cbd.int/doc/press/2024/pr-2024-06-30-dsi-en.pdf) accompanying the Co-Chairs reflection paper as follows:
+
+> Potential trigger points for contributions identified by the Co-Chairs:
+>
+> -   When a product developed through the use of DSI is placed on the market, users would be expected to contribute.
+>
+> -   When revenue is generated in a sector highly dependent on the use of DSI, companies would be expected to contribute a proportion of their total revenue generated.
+
+These two options correspond with points b and c respectively. The [press release](https://www.cbd.int/doc/press/2024/pr-2024-06-30-dsi-en.pdf) states '...that sectors that depend most on DSI generate “one to a few trillion dollars annually” and even 0.1% of \$1 trillion would yield \$1 billion for the global fund; 1% would amount to \$10 billion.'
+
+The [Co-Chairs reflection paper](https://www.cbd.int/doc/c/50f2/3f82/e1db68327616c51aae0cd29f/wgdsi-02-02-add1-en.pdf) is attempting to narrow the negotiation space and is focusing on contributions from industry sectors. It is currently unclear how Parties and industry sectors will respond to this proposal.
+
+### Where Are We Now?
+
+COP15 gave responsibility for the further development of the multilateral mechanism to an open ended working group with the expectation that it will become operational from COP16 onwards. The first meeting of the working group was held in Geneva in November 2023 and the report is [here](https://www.cbd.int/doc/c/dc41/1e1e/c04534ec49209ff4b4479c1f/wgdsi-01-03-en.pdf). The second meeting will be held in Montreal in mid-August and the documents all are available [here](https://www.cbd.int/meetings/WGDSI-02).
+
+Due to delays in commissioning the studies were effectively rolled into one. The studies have not been made public at the time of writing following a call for peer review. However, an Executive Summary of the studies made public prior to addressing peer review comments is available [here](https://www.cbd.int/doc/decisions/cop-15/cop-15-dec-09-en.pdf). It is understood informally that a very large number of peer review comments were submitted.
+
+In an important development the Co-Chairs have written a ['Reflections' paper](https://www.cbd.int/doc/c/50f2/3f82/e1db68327616c51aae0cd29f/wgdsi-02-02-add1-en.pdf) that seeks to set out their thinking on where there are potential areas for convergence.
+
+In addition to the formal CBD processes a range of informal meetings have been held in various regions around the world as part of the process of building consensus on possible outcomes at COP16. The LSE Roundtable appears towards the end of that process.
+
+### Where are We Going?
+
+COP16 is expected to arrive at a decision. A decision under the Convention is not legally binding as such except in the softer sense that the Convention is legally binding. This is a very different situation to the negotiations on genetic resources and DSI under the High Seas Treaty in 2023 where UN member states agreed to include a range of revenue generation options for benefit sharing under a special fund. In the first instance contributions will be made by State Parties in the initial phase.
+
+### Background Framing Documents
+
+If you are new to the [CBD](https://www.cbd.int/) and would like to understand the context for the debates on DSI take a quick look at these as the wider framework.
+
+1.  [The Global Biodiversity Framework](https://www.cbd.int/doc/decisions/cop-15/cop-15-dec-04-en.pdf) (The Goals and Targets to 2030 providing context on DSI)
+2.  [The Resource Mobilisation Strategy](https://www.cbd.int/doc/decisions/cop-15/cop-15-dec-09-en.pdf) (The decision on mobilising upto \$200 billion a year)
+3.  [DIgital Sequence Information](https://www.cbd.int/doc/decisions/cop-15/cop-15-dec-09-en.pdf) (COP15 decision establishing a multilateral mechanism)
+
+The Secretariat maintains a page on the theme of digital sequence information [here](https://www.cbd.int/dsi-gr). An updateable [DSI resource page](https://www.cbd.int/dsi-gr/resources.shtml) will show recent publications and documents (that is open for submissions to registered users, registration is easy and free).
+
+## Biodiversity Finance and DSI
+
+1.  [Exploration of the biodiversity finance landscape](https://www.cbd.int/doc/c/e761/abc8/a3a6b3d8c118f389ac6b8d8c/sbi-04-inf-10-en.pdf) (April 2024 Secretariat review of the global landscape). This document informs the ongoing debates on Resource Mobilisation.
+2.  [Lessons Learned from Other International Funding Mechanisms](https://www.cbd.int/doc/c/614a/6fec/ae55835cbe586f697f9bcc99/wgdsi-01-02-add2-rev1-en.pdf) (Secretariat Study for DSI)
+3.  [Executive Summary of DSI Studies](https://www.cbd.int/doc/c/2236/870d/df42f0c0e104ad6a48d1d4d9/wgdsi-02-02-add2-en.pdf) (Secretariat Commissioned Studies arising from Decision 15/9, the executive summary is of the pre-peer review version of the studies). The peer reviewed version and peer review comments are not yet available.
+
+TBC
+
+### Studies
+
+A number of studies have been prepared or commissioned by different actors to inform the discussions. This list is by no means exhaustive. Some noteworthy studies include:
+
+-   Morgera, Switzer and Geelhoed 2019 Study for the European Commission on ‘[Possible Ways to Address Digital Sequence Information – Legal and Policy Aspects](https://pure.strath.ac.uk/ws/portalfiles/portal/118542982/Morgera_etal_2019_Study_for_the_European_Commission_on_Possible_Ways_to_Address_Digital_Sequence_Information.pdf)’. This provides legal analysis and also provides informed analysis around benefit sharing mechanisms. See also Switzer's study for the Secretariat for lessons learned from [funding mechanisms](https://www.cbd.int/doc/c/614a/6fec/ae55835cbe586f697f9bcc99/wgdsi-01-02-add2-rev1-en.pdf).
+
+-   Oldham 2020 Study for the European Commission on [Digital Sequence Information: Technical Aspects](https://www.researchgate.net/publication/351051071_Digital_Sequence_Information_-Technical_Aspects) followed by Oldham and Kindness 2022 [Sharing Digital Sequence Information](https://www.researchgate.net/publication/365127109_Sharing_Digital_Sequence_Information). Both papers use an SES based approach to the analysis of options and ultimately focus on infrastructure based revenue generation using cloud computing pricing models.
+
+-   Sholz et. al. 2020 [Finding Compromise on ABS & DSI in the CBD: Requirements and Policy Ideas from A Scientific Perspective](https://www.dsmz.de/fileadmin/user_upload/Collection_allg/Final_WiLDSI_White_Paper_Oct7_2020.pdf). Evaluates a variety of options and favours a UNITAID inspired micro-levy for sequencing machines and reagents.
+
+-   Vogel et al 2021 [Bounded openness: A robust modality of access to genetic resources and the sharing of benefits](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10239). See also earlier work by economist Joseph Vogel including 1994 Genes for Sale the 2000 The Biodiversity Cartel. See also Ruiz Muller 2015 Genetic Resources as Natural Information.
+
+-   Oldham, Thambisetty and Chiarrolla 2023 [Digital Sequence Information in the UN High Seas Treaty: Insights from the Global Biodiversity Framework-related Decisions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4343130). Argues for multiple revenue generation options under the New High Seas Treaty including aggregate use indicators linking across to natural capital accounting. Elaborated in greater detail for G77 +China [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4580046).
+
+-   Halewood et al 2023 [New benefit-sharing principles for digital sequence information](https://www.science.org/doi/10.1126/science.adj1331) (paywall). Policy Forum in *Science* arguing for delinking access from benefit-sharing, radical simplification, a broad base for contributions across biological data and harmonization of the approach across international instruments.
+
+-   Hampton et al 2023 [‘Equity’ in the Pandemic Treaty: The False Hope of 'Access and Benefit-Sharing'](https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/equity-in-the-pandemic-treaty-the-false-hope-of-access-and-benefitsharing/EDDC7C190807F992643129ADD476955B). A substantive critique of the concept of access and benefit-sharing with respect to the Pandemic Treaty.
+
+-   Oldham and Thambisetty 2024 [The Pandemic Access and Benefit Sharing System: Four Elements of a Trusted System](https://www.researchgate.net/publication/380164464_The_Pandemic_Access_and_Benefit_Sharing_System_Four_Elements_of_a_Trusted_System). Uses company and trade classification systems to identify options for securing contributions from companies.
