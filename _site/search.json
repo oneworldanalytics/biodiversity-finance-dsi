@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "biodiversity-finance-dsi",
+    "title": "Resources for the LSE Roundtable on Biodiversity Finance and Digital Sequence Information",
     "section": "",
-    "text": "The Global Biodiversity Framework (COP decision)\nThe Resource Mobilisation Strategy (COP decision)\nDIgital Sequence Information (COP decision)\nExploration of the biodiversity finance landscape (Secretariat Study)\nLessons Learned from Other International Funding Mechanisms (Secretariat Study)\nExecutive Summary of DSI Studies (Secretariat Commissioned Studies, pre-peer review corrections, low quality)"
+    "text": "This page provides resources for economists for the LSE Roundtable on Global Biodiversity Finance and Digital Sequence Information.\nParties to the Convention on Biological Diversity have decided to establish a multilateral mechanism on digital sequence information including a new fund. COP16 in Cali, Colombia in October 2016 will make key decisions about the size of the new fund, who will contribute, and how the fund will be organised in terms of contributions and disbursements. Many challenging questions remain and Parties will need to clarify the options available to them in order to take a decision by consensus on ways forward."
   },
   {
-    "objectID": "index.html#digital-sequence-information",
-    "href": "index.html#digital-sequence-information",
-    "title": "biodiversity-finance-dsi",
-    "section": "Digital Sequence Information",
-    "text": "Digital Sequence Information\nhello"
+    "objectID": "index.html#biodiversity-finance-and-dsi",
+    "href": "index.html#biodiversity-finance-and-dsi",
+    "title": "Resources for the LSE Roundtable on Biodiversity Finance and Digital Sequence Information",
+    "section": "Biodiversity Finance and DSI",
+    "text": "Biodiversity Finance and DSI\n\nExploration of the biodiversity finance landscape (April 2024 Secretariat review of the global landscape). This document informs the ongoing debates on Resource Mobilisation.\nLessons Learned from Other International Funding Mechanisms (Secretariat Study for DSI)\nExecutive Summary of DSI Studies (Secretariat Commissioned Studies arising from Decision 15/9, the executive summary is of the pre-peer review version of the studies). The peer reviewed version and peer review comments are not yet available.\n\nTBC\n\nStudies\nA number of studies have been prepared or commissioned by different actors to inform the discussions. This list is by no means exhaustive. Some noteworthy studies include:\n\nMorgera, Switzer and Geelhoed 2019 Study for the European Commission on ‘Possible Ways to Address Digital Sequence Information – Legal and Policy Aspects’. This provides legal analysis and also provides informed analysis around benefit sharing mechanisms. See also Switzer’s study for the Secretariat for lessons learned from funding mechanisms.\nOldham 2020 Study for the European Commission on Digital Sequence Information: Technical Aspects followed by Oldham and Kindness 2022 Sharing Digital Sequence Information. Both papers use an SES based approach to the analysis of options and ultimately focus on infrastructure based revenue generation using cloud computing pricing models.\nSholz et. al. 2020 Finding Compromise on ABS & DSI in the CBD: Requirements and Policy Ideas from A Scientific Perspective. Evaluates a variety of options and favours a UNITAID inspired micro-levy for sequencing machines and reagents.\nVogel et al 2021 Bounded openness: A robust modality of access to genetic resources and the sharing of benefits. See also earlier work by economist Joseph Vogel including 1994 Genes for Sale the 2000 The Biodiversity Cartel. See also Ruiz Muller 2015 Genetic Resources as Natural Information.\nOldham, Thambisetty and Chiarrolla 2023 Digital Sequence Information in the UN High Seas Treaty: Insights from the Global Biodiversity Framework-related Decisions. Argues for multiple revenue generation options under the New High Seas Treaty including aggregate use indicators linking across to natural capital accounting. Elaborated in greater detail for G77 +China here.\nHalewood et al 2023 New benefit-sharing principles for digital sequence information (paywall). Policy Forum in Science arguing for delinking access from benefit-sharing, radical simplification, a broad base for contributions across biological data and harmonization of the approach across international instruments.\nHampton et al 2023 ‘Equity’ in the Pandemic Treaty: The False Hope of ‘Access and Benefit-Sharing’. A substantive critique of the concept of access and benefit-sharing with respect to the Pandemic Treaty.\nOldham and Thambisetty 2024 The Pandemic Access and Benefit Sharing System: Four Elements of a Trusted System. Uses company and trade classification systems to identify options for securing contributions from companies."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Resources for the LSE Roundtable on Biodiversity Finance and Digital Sequence Information",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAdvanced by Oldham (2020) and Oldham and Kindness (2022). For literature on cloud pricing models see Wu et al 2019 Cloud Pricing Models: Taxonomy, Survey, and Interdisciplinary Challenges and on cloud storage pricing see Khan et al 2024 Cloud storage cost: a taxonomy and survey.↩︎"
   }
 ]
