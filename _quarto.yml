@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Resources for the LSE Roundtable on Biodiversity Finance and Digital Sequence Information"
