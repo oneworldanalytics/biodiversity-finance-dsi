@@ -1,0 +1,43 @@
+---
+title: "Presentations from the First Day"
+---
+
+### Mapping DSI Revenue Options A to D
+
+[Slides](https://www.dropbox.com/scl/fi/1hrvbshoatptfi0widc5x/Makowska-Curran_DSI-Models.pptx?rlkey=8lrn2iu035d43sssr4sh0bqwi&st=q681dqfl&dl=0){target="_blank"} [Table](https://www.dropbox.com/scl/fi/m0radq2vc9apc2k1lscz7/Kamath_unlocking_private_capital.pptx?rlkey=i5kt0aji1k4etsl9v9es4vmqo&st=ew4m55xr&dl=0){target="_blank"}
+
+Agata Makowska-Curran from LSE Did an excellent presentation breaking down the components of the revenue model, the possible ways of measuring them, and data availability, indicating components where there is high data availability for the sake of measurement and low data availability for the sake of measurement.
+
+### Unlocking Private Capital: Navigating Regulation, Metrics and Investor Motivations
+
+[Slides](https://www.dropbox.com/scl/fi/m0radq2vc9apc2k1lscz7/Kamath_unlocking_private_capital.pptx?rlkey=i5kt0aji1k4etsl9v9es4vmqo&st=ew4m55xr&dl=0){target="_blank"} [Toy Model](https://www.dropbox.com/scl/fi/571c4fm7s0a4lm8yil9bo/Kamath_TOY_MODEL_To_be_printed.xlsx?rlkey=4ppi09aipdx0xq4caeokn5ejv&st=yh4yd2im&dl=0){target="_blank"}
+
+Dr Kamath from LSE explored the investor perspective on socially responsible investing. She also explored different approaches to regulation, including legislative and non-legislative approaches. She explained that sales, turnover and revenue are the same thing, and provided an exploration of how these metrics vary between companies by size, region or sector. She emphasised the power of disclosures for changing company behaviour and raised the issue of keeping the full value chain in view when assessing contributions for DSI products. Finally she presented a toy model she developed with Agata Makowska-Curran. While acknowledging assumptions made during the development of the model, they demonstrated the amounts of funding that would need to be raised either from a top-down approach by country, or bottom up approach by company to reach various sums for the global fund.
+
+### Definitions and Triggers: Options A to D
+
+[Slides](https://www.dropbox.com/scl/fi/6bpn0ml5vdgcno4j36pc2/Batista_Definitions-and-Triggers_LSE-Roundtable.pptx?rlkey=getvzhpj2cr1q7u5kmf9wdy47&st=qql5gxfr&dl=0){target="_blank"} [Handout](https://www.dropbox.com/scl/fi/yvhgk97vub6bqs7012gwn/Batista_Handout_Definitions-and-Triggers_LSE-Roundtable.docx?rlkey=zkok1bwa6drlpsi4jn5cw8l6b&st=d2lfpmo5&dl=0){target="_blank"}
+
+Pedro Batista from the Max Planck Institute evaluated the pros and cons of revenue and turnover and the pros and cons of options A to D
+
+### Capitalising the global fund: The Profit Scenario
+
+[Slides](https://www.dropbox.com/scl/fi/wuss4alh0s5o4orzmfjiv/Bassford-ICF-DSI-presentation-profit-option.pptx?rlkey=1h0gv1nh3iz4gk966kw74ekos&st=dsv8mp74&dl=0){target="_blank"}
+
+Matt Bassford reported the findings of an ICF report commissioned by DEFRA. (The UK Department for Environment, Food and Rural Affairs). The ICF reviewed different benefit sharing mechanisms for the MLM, assessing them based on criteria in Decision 15/9. The conclusion was reached that a 1% levy on profits is the most viable option based on policy compliance and market impact.
+
+### Profits and sales in IPLC negotiations with oil companies
+
+Kyle Vermette recounted his experience as an Indigenous lawyer participating in negotiations between Indigenous Peoples and oil companies. He related that in these scenarios sales is the preferred metric, due to potential delays in or absence of profits. He also emphasised the importance of nature being paid first, and that this approach is based on recognition and respect (No links available)
+
+### Fair and Equitable Matrix Based Sharing of Monetary Benefits Arising from the Utilization of DSI
+
+[Slides](https://www.dropbox.com/scl/fi/djilahgz0jbywjzi05ne3/Niebler-LSE-DSI-Matrix-Presentation-Deck-09262024.pdf?rlkey=o7r5yiz63gy8qn0serkbyaa1h&st=j9sysswc&dl=0){target="_blank"} [Handout](https://www.dropbox.com/scl/fi/fqzp74zoo94hdpt664l33/Niebler-Synopsis-of-Matrix-Based-Fair-and-Equitable-DSI-Fund-Contributions.pdf?rlkey=w8cs0glbfen95jw99nhvfjw4i&st=8kmxfwfh&dl=0){target="_blank"} [Paper](https://www.dropbox.com/scl/fi/djilahgz0jbywjzi05ne3/Niebler-LSE-DSI-Matrix-Presentation-Deck-09262024.pdf?rlkey=o7r5yiz63gy8qn0serkbyaa1h&st=j9sysswc&dl=0){target="_blank"}
+
+Andrew Niebler presented his approach to the DSI value chain, making the point that the value chain for DSI extends beyond a specific instance of the use of DSI in a product. He showed a visual representation of stratification of companies by pertinence of DSI to company profits before presenting a matrix-based approach to DSI contributions which took into account company size and pertinence of DSI to profits and suggested staged implementation over time.
+
+### The impact of different metrics on one Brazilian company
+
+[Slides](https://www.dropbox.com/scl/fi/jobque2zxar3654w1698l/Viana-Ana-Apresenta-o-Impacto-RB-DSI-_-25-09-2024.pptx?rlkey=zbnvkcjor101ayha73mco6oir&st=sy77lrf3&dl=0){target="_blank"}
+
+Ana Viana from Natura Brasilia presented figures showing the impact use of different metrics was likely to have on Natura. She made the point that Natura was already actively engaged in benefit sharing under the Nagoya Protocol and that without care, the requirement to share benefits under the mechanism may hamper a company's ability to enter into bilateral agreements under Nagoya.
