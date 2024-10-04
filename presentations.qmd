@@ -2,11 +2,19 @@
 title: "Presentations from Day One"
 ---
 
+### Baseline for the Roundtable & Reflections on Draft Recommendation of the WG
+
+##### Siva Thambisetty 
+
+Siva Thambisetty from the LSE set the scene for the roundtable, reviewing the outcomes of the Working Group on DSI in Montreal, suggesting a reframing of questions arising from that meeting for the roundtable. She highlighted the invisibility of data and data valuation in the discussions so far and suggested that targets would be important to frame future discussions. She introduced the FRETAP principles for fair contributions and ended on the concept of the Goldilocks zone emphasising the need to avoid extremes and balance trade-offs.  
+
+###### [Slides](https://www.dropbox.com/scl/fi/5hzr96t12xducl2gi0h37/Roundtable-opening-framing.pptx?rlkey=q9fmr85hhpxgp6otwas1v2wx7&st=g7muhell&dl=0)
+
 ### Mapping DSI Revenue Options A to D
 
 ##### Agata Makowska-Curran 
 
-Agata Makowska-Curran from LSE broke down the different components of any revenue model, the possible ways of measuring them, and data availability, indicating components where there is high data availability for the sake of measurement and low data availability for the sake of measurement.
+Agata Makowska-Curran from the LSE broke down the necessary components of any revenue model, the possible ways of measuring them, and data availability, indicating components where there is higher or lower data availability for measurement purposes
 
 ######  [Slides](https://www.dropbox.com/scl/fi/1hrvbshoatptfi0widc5x/Makowska-Curran_DSI-Models.pptx?rlkey=8lrn2iu035d43sssr4sh0bqwi&st=q681dqfl&dl=0){target="_blank"} [Table](https://www.dropbox.com/scl/fi/m0radq2vc9apc2k1lscz7/Kamath_unlocking_private_capital.pptx?rlkey=i5kt0aji1k4etsl9v9es4vmqo&st=ew4m55xr&dl=0){target="_blank"}
 
@@ -14,7 +22,7 @@ Agata Makowska-Curran from LSE broke down the different components of any revenu
 
 ##### Saipriya Kamath 
 
-Dr Kamath from LSE explored the investor perspective on socially responsible investing. She also explored different approaches to regulation, including legislative and non-legislative approaches. She explained that sales, turnover and revenue are the same thing, and provided an exploration of how these metrics vary between companies by size, region or sector. She emphasised the power of disclosures for changing company behaviour and raised the issue of keeping the full value chain in view when assessing contributions for DSI products. Finally she presented a toy model she developed with Agata Makowska-Curran. While acknowledging assumptions made during the development of the model, they demonstrated the amounts of funding that would need to be raised either from a top-down approach by country, or bottom up approach by company to reach various sums for the global fund.
+Dr Kamath from the LSE explored the investor perspective on socially responsible investing and different approaches to regulation, including legislative and non-legislative approaches. She explained that sales, turnover and revenue are the same thing, and provided an exploration of how these metrics vary between companies by size, region or sector. She emphasised the power of disclosures for changing company behaviour and raised the issue of keeping the full value chain in view when assessing contributions for DSI products. Finally she presented a toy model developed in collaboration with Agata Makowska-Curran. While acknowledging assumptions made during the development of the model, they demonstrated the amounts of funding that would be needed to reach various sums for the global fund, either from a top-down approach by country, or bottom up approach by company.
 
 ###### [Slides](https://www.dropbox.com/scl/fi/m0radq2vc9apc2k1lscz7/Kamath_unlocking_private_capital.pptx?rlkey=i5kt0aji1k4etsl9v9es4vmqo&st=ew4m55xr&dl=0){target="_blank"} [Toy Model](https://www.dropbox.com/scl/fi/571c4fm7s0a4lm8yil9bo/Kamath_TOY_MODEL_To_be_printed.xlsx?rlkey=4ppi09aipdx0xq4caeokn5ejv&st=yh4yd2im&dl=0){target="_blank"}
 
@@ -22,30 +30,30 @@ Dr Kamath from LSE explored the investor perspective on socially responsible inv
 
 ##### Pedro Batisa
 
-Pedro Batista from the Max Planck Institute evaluated the pros and cons of revenue and turnover and the pros and cons of options A to D
+Pedro Batista from the Max Planck Institute evaluated the strengths and weaknesses of profits and sales and the strengths and weaknesses of Options A to D
 
 ###### [Slides](https://www.dropbox.com/scl/fi/6bpn0ml5vdgcno4j36pc2/Batista_Definitions-and-Triggers_LSE-Roundtable.pptx?rlkey=getvzhpj2cr1q7u5kmf9wdy47&st=qql5gxfr&dl=0){target="_blank"} [Handout](https://www.dropbox.com/scl/fi/yvhgk97vub6bqs7012gwn/Batista_Handout_Definitions-and-Triggers_LSE-Roundtable.docx?rlkey=zkok1bwa6drlpsi4jn5cw8l6b&st=d2lfpmo5&dl=0){target="_blank"}
 
-### Capitalising the global fund: The Profit Scenario
+### Capitalising the Global Fund: The Profit Scenario
 
 ##### Matt Bassford
 
-Matt Bassford reported the findings of an ICF report commissioned by DEFRA. (The UK Department for Environment, Food and Rural Affairs). The ICF reviewed different benefit sharing mechanisms for the MLM, assessing them based on criteria in Decision 15/9. The conclusion was reached that a 1% levy on profits is the most viable option based on policy compliance and market impact.
+Matt Bassford from the ICF reported on the findings of a report commissioned by DEFRA. The ICF reviewed different benefit sharing mechanisms for the MLM, assessing them based on the criteria in Decision 15/9. The conclusion was reached that a 1% levy on profits is the most viable option based on policy compliance and market impact.
 
 ###### [Slides](https://www.dropbox.com/scl/fi/wuss4alh0s5o4orzmfjiv/Bassford-ICF-DSI-presentation-profit-option.pptx?rlkey=1h0gv1nh3iz4gk966kw74ekos&st=dsv8mp74&dl=0){target="_blank"}
 
-### Profits and Sales in IPLC Negotiations
+### Profit vs Sales in Indigenous Land Negotiations
 
 ##### Kyle Vermette
 
-Kyle Vermette recounted his experience as an Indigenous lawyer participating in negotiations between Indigenous Peoples and oil companies. He related that in these scenarios sales is the preferred metric, due to potential delays in or absence of profits. He also emphasised the importance of nature being paid first, and that this approach is based on recognition and respect 
+Indigenous lawyer Kyle Vermette from the Firelight Group provided his perspective on the profits vs sales question based on his experiences participating in negotiations between Indigenous Peoples and oil companies. He related that in these scenarios sales is the preferred metric, due to the unpredictable nature of profits in this sector. He also emphasised the importance of paying nature first, and that this approach is based on recognition and respect.
 (No links)
 
 ### Fair and Equitable Matrix Based Sharing of Monetary Benefits Arising from the Utilization of DSI
 
 ##### Andrew Niebler
 
-Andrew Niebler presented his approach to the DSI value chain, making the point that the value chain for DSI extends beyond a specific instance of the use of DSI in a product. He showed a visual representation of stratification of companies by pertinence of DSI to company profits before presenting a matrix-based approach to DSI contributions which took into account company size and pertinence of DSI to profits and suggested staged implementation over time.
+Andrew Niebler from Karner Blue Capital demonstrated that the value chain for DSI extends beyond a specific instance of the use of DSI in a product. He proposed  stratification of companies by importance of DSI to their profits and presented a matrix-based approach to DSI contributions which took into account company size and importance of DSI to profits. He suggested staged implementation of the mechanism over time.
 
 ###### [Slides](https://www.dropbox.com/scl/fi/djilahgz0jbywjzi05ne3/Niebler-LSE-DSI-Matrix-Presentation-Deck-09262024.pdf?rlkey=o7r5yiz63gy8qn0serkbyaa1h&st=j9sysswc&dl=0){target="_blank"} [Handout](https://www.dropbox.com/scl/fi/fqzp74zoo94hdpt664l33/Niebler-Synopsis-of-Matrix-Based-Fair-and-Equitable-DSI-Fund-Contributions.pdf?rlkey=w8cs0glbfen95jw99nhvfjw4i&st=8kmxfwfh&dl=0){target="_blank"} [Paper](https://www.dropbox.com/scl/fi/djilahgz0jbywjzi05ne3/Niebler-LSE-DSI-Matrix-Presentation-Deck-09262024.pdf?rlkey=o7r5yiz63gy8qn0serkbyaa1h&st=j9sysswc&dl=0){target="_blank"}
 
@@ -53,7 +61,7 @@ Andrew Niebler presented his approach to the DSI value chain, making the point t
 
 ##### Ana Viana
 
-Ana Viana from Natura Brasilia presented figures showing the impact use of different metrics was likely to have on Natura. She made the point that Natura was already actively engaged in benefit sharing under the Nagoya Protocol and that without care, the requirement to share benefits under the mechanism may hamper a company's ability to enter into bilateral agreements under Nagoya.
+Ana Viana from Natura Brasilia presented figures showing the impact use of different metrics was likely to have on her company. She made the point that Natura was already actively engaged in benefit sharing under the Nagoya Protocol and that without care, the requirement to share benefits under the mechanism may hamper a company's ability to enter into bilateral agreements under Nagoya.
 
 ###### [Slides](https://www.dropbox.com/scl/fi/jobque2zxar3654w1698l/Viana-Ana-Apresenta-o-Impacto-RB-DSI-_-25-09-2024.pptx?rlkey=zbnvkcjor101ayha73mco6oir&st=sy77lrf3&dl=0){target="_blank"}
 
@@ -61,7 +69,7 @@ Ana Viana from Natura Brasilia presented figures showing the impact use of diffe
 
 ##### Pierre du Plessis 
 
-Pierre du Plessis presented the African Union's proposal that contributions to the global fund should be collected from a 1% levy of retail sales of all bio-based products paid at the till. Pierre clearly conveyed the urgency of the current climate crisis and the need for bold solutions.
+Pierre du Plessis presented the African Union's proposal that contributions to the global fund should be collected from a 1% levy of retail sales of all bio-based products paid at the point of sale. Pierre clearly conveyed the urgency of the current climate crisis and the need for bold solutions to address the biodiversity finance gap.
 
 ###### [Slides](https://www.dropbox.com/scl/fi/ju6cf69ynesigj5stb5l7/Duplessis-Pierre-1pc-of-retail-proposal-for-LSE-Roundtable-27-Sep-2024.pptx?rlkey=qhx7mz910zrvtry0ahfxmrro6&st=w1ipwt9q&dl=0){target="_blank"}
 
@@ -76,7 +84,7 @@ Paul Oldham from One World Analytics explored the relationships between differen
 
 ##### Sarah Taylor
 
-Sarah Taylor from the Water Research Centre explored methods of valuing DSI using natural capital accounting, exploring when and how data accrues value and different approaches to analysing the costs and values associated with data.
+Sarah Taylor from the Water Research Centre explored methods which could be used to value DSI using natural capital accounting, exploring when and how data accrues value and different approaches to analysing the costs and values associated with data.
 
 ###### [Slides](https://www.dropbox.com/scl/fi/x817098o4hrrqvqrufo6e/LSE_ST.pptm?rlkey=2pe65mo38qsxb75me7adenis4&st=67f6sxth&dl=0){target="_blank"}
 
@@ -84,6 +92,6 @@ Sarah Taylor from the Water Research Centre explored methods of valuing DSI usin
 
 ##### Stephanie Switzer
 
-Jasmine Kindness presented a proposal by Stephanie Switzer on a "Tariff Water Revenue Mechanism" whereby funds could be collected for the mechanism by adjusting the tariffs on internationally traded products. She explained that "tariff water" is the difference between a bound rate and an applied tariff rate.
+Jasmine Kindness from One World Analytics summarised a proposal by Stephanie Switzer from the University of Strathclyde on a "Tariff Water Revenue Mechanism" whereby funds could be collected for the mechanism by adjusting the tariffs on internationally traded products. She explained that "tariff water" is the difference between a bound rate and an applied tariff rate.
 
 ###### [Slides](https://www.dropbox.com/scl/fi/gq8x0ur6lytrr70gyrhdc/Switzer-Kindness-Tariff-Water.pptx?rlkey=2xx4t6f77bvdnnxo5w1t7332s&st=2qhi3dj9&dl=0){target="_blank"} [Paper](https://www.dropbox.com/scl/fi/d4j4gv5awcwuc1w06o7jl/Switzer-Tariff-Water-Revenue-Mechanism.pdf?rlkey=5g3lq2uau5o2llztdwvgp4cm3&st=ymx024hv&dl=0){target="_blank"}

@@ -2,9 +2,9 @@
 title: ""
 ---
 
-### Key Resources for Economists
+### Key Resources
 
-This page provides resources for economists for the LSE Roundtable on Global Biodiversity Finance and Digital Sequence Information.
+This page provides resources for the LSE Roundtable on Global Biodiversity Finance and Digital Sequence Information.
 
 Parties to the [Convention on Biological Diversity](https://www.cbd.int/) have decided to establish a multilateral mechanism on digital sequence information including a new fund. COP16 in Cali, Colombia in October 2016 will make key decisions about the size of the new fund, who will contribute, and how the fund will be organised in terms of contributions and disbursements. Many challenging questions remain and Parties will need to clarify the options available to them in order to take a decision by consensus on ways forward.
 
@@ -94,9 +94,7 @@ The Secretariat maintains a page on the theme of digital sequence information [h
 
 1.  [Exploration of the biodiversity finance landscape](https://www.cbd.int/doc/c/e761/abc8/a3a6b3d8c118f389ac6b8d8c/sbi-04-inf-10-en.pdf) (April 2024 Secretariat review of the global landscape). This document informs the ongoing debates on Resource Mobilisation.
 2.  [Lessons Learned from Other International Funding Mechanisms](https://www.cbd.int/doc/c/614a/6fec/ae55835cbe586f697f9bcc99/wgdsi-01-02-add2-rev1-en.pdf) (Secretariat Study for DSI)
-3.  [Executive Summary of DSI Studies](https://www.cbd.int/doc/c/2236/870d/df42f0c0e104ad6a48d1d4d9/wgdsi-02-02-add2-en.pdf) (Secretariat Commissioned Studies arising from Decision 15/9, the executive summary is of the pre-peer review version of the studies). The peer reviewed version and peer review comments are not yet available.
-
-TBC
+3.  [Executive Summary of DSI Studies](https://www.cbd.int/doc/c/2236/870d/df42f0c0e104ad6a48d1d4d9/wgdsi-02-02-add2-en.pdf) (Secretariat Commissioned Studies arising from Decision 15/9, the executive summary is of the pre-peer review version of the studies).
 
 ### Studies
 
