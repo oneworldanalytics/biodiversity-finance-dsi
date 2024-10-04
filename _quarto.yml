@@ -10,8 +10,7 @@ website:
         text: Background
       - href: presentations.qmd
         text: Day One
-    background: "primary"    # Bootstrap color for the navbar background
-    foreground: "white"
+
 
 
 format:

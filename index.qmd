@@ -115,3 +115,5 @@ A number of studies have been prepared or commissioned by different actors to in
 -   Hampton et al 2023 [‘Equity’ in the Pandemic Treaty: The False Hope of 'Access and Benefit-Sharing'](https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/equity-in-the-pandemic-treaty-the-false-hope-of-access-and-benefitsharing/EDDC7C190807F992643129ADD476955B). A substantive critique of the concept of access and benefit-sharing with respect to the Pandemic Treaty.
 
 -   Oldham and Thambisetty 2024 [The Pandemic Access and Benefit Sharing System: Four Elements of a Trusted System](https://www.researchgate.net/publication/380164464_The_Pandemic_Access_and_Benefit_Sharing_System_Four_Elements_of_a_Trusted_System). Uses company and trade classification systems to identify options for securing contributions from companies.
+
+![](footer.png){fig-align="center"}
