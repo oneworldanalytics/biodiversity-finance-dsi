@@ -6,7 +6,7 @@ title: "Presentations from Day Two"
 
 ##### Paul Oldham
 
-Paul Oldham from One World Analytics pointed to the inclusion of the OECD Recommendation on Enhancing Access to and Sharing of Data and the UNESCO Recommendation on Open Science in Decision 15/9 and argued that the nature of these documents is sometimes misunderstood. He used the example of the privatisation of Alphafold 3, originally based on openly available data from EMBL-EBI, to raise questions on ensuring returns for biodiversity. He pointed to the importance of maintaining relationships between different kinds of data to maintain transparency in how it is being used and put forward the suggestion of a Sovereign Commons Licence, whereby Parties, in the collective exercise of their sovereign rights could decide to establish a common licence for the sharing of digital sequence information.
+Paul Oldham from One World Analytics pointed to the inclusion of the OECD Recommendation on Enhancing Access to and Sharing of Data and the UNESCO Recommendation on Open Science in Decision 15/9 and argued that the nature of these documents is sometimes misunderstood. He used the example of the privatisation of Alphafold 3, originally based on openly available data from EMBL-EBI, to raise questions on ensuring fair returns for biodiversity. He pointed to the importance of maintaining relationships between different kinds of data to maintain transparency in how it is being used and put forward the suggestion of a Sovereign Commons Licence, whereby Parties, in the collective exercise of their sovereign rights could decide to establish a common licence for the sharing of digital sequence information.
 
 A further elaboration on the concept of the Sovereign Commons License from Paul Oldham and Siva Thambisetty is available [here](https://www.dropbox.com/scl/fi/t8wu0ibo9gty5t0gpsyyi/The-Sovereign-Commons-Licence.pdf?rlkey=yng82qofess1w9vfghgmch6xv&st=rqbnmvrq&dl=0){target="_blank"}.
 
@@ -25,7 +25,7 @@ Paul Oldham demonstrated the importance of patent analytics for understanding tr
 
 ##### Siva Thambisetty
 
-Siva Thambisetty from the LSE reflected on the implications and lessons learned from the BBNJ Treaty for DSI in the context of the CBD. She highlighted the obligations related to Party reporting under the legally binding Treaty, emphasizing the requirement to report the origin of genetic material from which the DSI is sourced, using a Batch Identifier. Additionally, she discussed the obligation for databases holding data within the scope of the BBNJ to report aggregate-level data every two years. She concluded that the direction of travel is towards the use of identifiers and the mapping of aggregate data flows, and that this shift is necessary to foster trust and emphasized that databases should play a key role in the architecture of trust.
+Siva Thambisetty from the LSE reflected on the implications and lessons learned from the BBNJ Treaty for DSI in the context of the CBD. She highlighted the obligations related to Party reporting under the legally binding Treaty, emphasizing the requirement to report the origin of genetic material from which the DSI is sourced, using a Batch Identifier. Additionally, she discussed the obligation for databases holding data within the scope of the BBNJ to report on that data at an aggregate-level every two years. She concluded that the direction of travel is towards the use of identifiers and the mapping of aggregate data flows, and that this shift is necessary to foster trust. She further emphasized that databases should play a key role in the architecture of trust.
 
 ###### [Slides](https://www.dropbox.com/scl/fi/omteyjqkqa15nznes1jzh/Thambisetty-BBNJ-for-LSE-Roundtable.pptx?rlkey=34jifm9umf4g7xb7bu56yzymo&st=8q534f8s&dl=0)
 
@@ -41,7 +41,7 @@ Alvaro Toledo from the Plant Treaty Secretariat discussed the subscription model
 
 ##### Tim Hirsch 
 
-Tim Hirsch provided an overview of GBIF as an organization, illustrating how its data is used globally. He explained GBIF's use of Creative Commons licenses for their data and highlighted their user agreement, which clarifies that while GBIF data is free of cost to users, it is not free of responsibilities. He also discussed GBIF's practice of assigning DOIs to datasets, which enhances transparency in data usage and enables tracking the impact of GBIF data in research and policymaking, while ensuring proper recognition for data providers.
+Tim Hirsch provided an overview of GBIF as an organization, illustrating how its data is used globally. He explained GBIF's use of Creative Commons licenses for their data and highlighted their user agreement, which clarifies that while GBIF data is free of cost to users, it is not free of responsibilities. He also discussed GBIF's practice of assigning DOIs to datasets, which enhances transparency in data usage and enables monitoring of the impact of GBIF data in research and policymaking, while ensuring proper recognition for data providers.
 
 ###### [Slides](https://www.dropbox.com/scl/fi/g489i1m661iseo8pc2npv/Hirsch-GBIF-240928_LSE_DSI.pptx?rlkey=pklvb114lgnwnx5smhgjh1p86&st=qntwf3en&dl=0){target="_blank"}
 
