@@ -43,7 +43,7 @@ a:active {
 }
 
 .toc a, #TOC a, .toc-links a {
-  color: #e30520 !important; /* Force the style to override Bootstrap */
+  color: #e8374c !important; /* Force the style to override Bootstrap */
 }
 
 .toc a:hover, #TOC a:hover, .toc-links a:hover {
@@ -51,7 +51,7 @@ a:active {
 }
 
 .toc a:visited, #TOC a:visited, .toc-links a:visited {
-  color: #e30520 !important;
+  color: #e8374c !important;
 }
 
 .toc a:active, #TOC a:active, .toc-links a:active {
