@@ -12,6 +12,15 @@ A further elaboration on the concept of the Sovereign Commons License from Paul 
 
 ###### [Slides](https://www.dropbox.com/scl/fi/779sga69h9k8oo5fao892/oldham_data_trust_alphafold.pptx?rlkey=6eb8rfajg2hxvr3c58xeh4ejm&st=053tmw19&dl=0){target="_blank"}
 
+### Patent Data and DSI Users
+
+##### Paul Oldham
+
+Paul Oldham demonstrated the importance of patent analytics for understanding trends in science and technology, identifying users of DSI and linking these users to sector classification codes like ISIC codes. He made the point that universities are frequent patent applicants.
+
+###### [Slides](https://www.dropbox.com/scl/fi/lfhc3xcqfdsjwkchst2mb/oldham_patent_data_dsi.pptx?rlkey=8doya9np6eledpi8dnmeg6suy&st=0ylfh91d&dl=0){target="_blank"}
+
+
 ### MGR and DSI on MGR in the BBNJ Treaty
 
 ##### Siva Thambisetty

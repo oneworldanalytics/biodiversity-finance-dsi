@@ -79,15 +79,13 @@ Pierre du Plessis presented the Africa Group's proposal that contributions to th
 
 ###### [Slides](https://www.dropbox.com/scl/fi/ju6cf69ynesigj5stb5l7/Duplessis-Pierre-1pc-of-retail-proposal-for-LSE-Roundtable-27-Sep-2024.pptx?rlkey=qhx7mz910zrvtry0ahfxmrro6&st=w1ipwt9q&dl=0){target="_blank"}
 
-### What UN Economic Classification Systems can do for DSI/Patent Data and DSI Users
+### Is a Duck a Fish? What UN Economic Classification Systems can do for DSI
 
 ##### Paul Oldham
 
 Paul Oldham from One World Analytics explored the relationships between UN and non-UN classification systems, including ISIC codes used to classify companies, HS codes used to classify products for international trade, and CPC codes used to classify products and services sold internally. Paul used these codes to show how biodiversity based companies and products can be identified. However he explained that identifying whether individual products were DSI reliant would be extremely challenging.
 
-Paul also demonstrated the importance of patent analytics for understanding trends in science and technology and identifying users of DSI, making the point that universities are frequent patent applicants.
-
-###### [UN Classification Systems ](https://www.dropbox.com/scl/fi/6s9ptdi6vvi6w0c0sh3fm/oldham_isic_products_exports.pptx?rlkey=oz04x2gbn26cc5q7tbquh232x&st=cok5qbqm&dl=0){target="_blank"} [Patent Data and DSI Users](https://www.dropbox.com/scl/fi/lfhc3xcqfdsjwkchst2mb/oldham_patent_data_dsi.pptx?rlkey=8doya9np6eledpi8dnmeg6suy&st=0ylfh91d&dl=0)
+###### [Slides ](https://www.dropbox.com/scl/fi/6s9ptdi6vvi6w0c0sh3fm/oldham_isic_products_exports.pptx?rlkey=oz04x2gbn26cc5q7tbquh232x&st=cok5qbqm&dl=0){target="_blank"} 
 
 ### The Value of DSI and DSI Data Sets
 
