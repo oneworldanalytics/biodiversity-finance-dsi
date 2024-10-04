@@ -8,7 +8,7 @@ title: "Presentations from Day One"
 
 ##### Siva Thambisetty (begins: 11:45)
 
-Siva Thambisetty from the LSE set the scene for the roundtable by reframing questions arising from the working group on DSI in Montreal. She highlighted the absence considerations of the value of data as an asset from the discussions so far, suggested the potential use of data trusts to increase trust in data sharing and suggested that targets would be important to anchor future discussions around contributions to the fund. She introduced the FRETAP principles for fair contributions to the mechanism and ended on the concept of the "Goldilocks zone" emphasising the importance of avoiding extremes at either end of the spectrum and balancing trade-offs.
+Siva Thambisetty from the LSE set the scene for the roundtable by reframing questions arising from the working group on DSI in Montreal. She highlighted the absence of considerations of the value of data as an asset from the discussions so far, suggested the potential use of data trusts to increase trust in data sharing and suggested that targets would be important to anchor future discussions around contributions to the fund. She introduced the FRETAP principles for fair contributions to the mechanism and ended on the concept of the "Goldilocks zone" emphasising the importance of balancing trade-offs and avoiding extremes at either end of the spectrum.
 
 ###### [Slides](https://www.dropbox.com/scl/fi/5hzr96t12xducl2gi0h37/Roundtable-opening-framing.pptx?rlkey=q9fmr85hhpxgp6otwas1v2wx7&st=g7muhell&dl=0)
 
@@ -24,7 +24,7 @@ Agata Makowska-Curran from the LSE provided a detailed analysis of different com
 
 ##### Saipriya Kamath (begins: 59:56)
 
-Dr Kamath from the LSE explored the investor perspective on socially responsible investing and different approaches to regulation, including legislative and non-legislative approaches. She explained that sales, turnover and revenue are the same thing, and provided an exploration of how company size, region or sector may affect the metrics of profit or sales. She emphasised the power of disclosures in changing company behaviour and raised the issue of keeping the full value chain in view when assessing contributions for DSI products. Finally she presented a toy model developed in collaboration with Agata Makowska-Curran. While acknowledging assumptions made during the development of the model, they demonstrated the level of funding needed to reach various target sums for the global fund, either from a top-down approach by country, or bottom up approach by company.
+Dr Kamath from the LSE explored the investor perspective on socially responsible investing and different approaches to regulation, including legislative and non-legislative approaches. She explained that sales, turnover and revenue refer to the same thing, and provided an exploration of how company size, region or sector may affect the metrics of profit or sales. She emphasised the power of disclosures in changing company behaviour and raised the issue of keeping the full value chain in view when assessing contributions for DSI products. Finally she presented a toy model developed in collaboration with Agata Makowska-Curran. While acknowledging assumptions made during the development of the model, they demonstrated the level of funding needed to reach various target sums for the global fund, either from a top-down approach by country, or bottom up approach by company.
 
 ###### [Slides](https://www.dropbox.com/scl/fi/m0radq2vc9apc2k1lscz7/Kamath_unlocking_private_capital.pptx?rlkey=i5kt0aji1k4etsl9v9es4vmqo&st=ew4m55xr&dl=0){target="_blank"} [Toy Model](https://www.dropbox.com/scl/fi/571c4fm7s0a4lm8yil9bo/Kamath_TOY_MODEL_To_be_printed.xlsx?rlkey=4ppi09aipdx0xq4caeokn5ejv&st=yh4yd2im&dl=0){target="_blank"}
 
@@ -50,7 +50,8 @@ Matt Bassford from the ICF reported on the findings of a report commissioned by 
 
 ##### Kyle Vermette
 
-Indigenous lawyer Kyle Vermette from the Firelight Group provided his perspective on the profits vs sales question based on experience participating in negotiations between Indigenous Peoples and oil companies. He related that in these scenarios sales is the preferred metric, due to the unpredictable nature of profits in this sector. He also emphasised the importance of paying nature first, and that this approach is based on recognition and respect. 
+Indigenous lawyer Kyle Vermette from the Firelight Group shared his perspective on the profits vs. sales debate, drawing from his experience in negotiations between Indigenous Peoples and oil companies. He explained that sales are the preferred metric in these discussions due to the unpredictable nature of profits in the sector. He also underscored the importance of paying nature first, framing this approach as one rooted in recognition and respect.
+
 (No links available)
 
 ### Fair and Equitable Matrix Based Sharing of Monetary Benefits Arising from the Utilization of DSI
