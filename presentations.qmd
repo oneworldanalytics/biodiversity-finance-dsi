@@ -2,6 +2,8 @@
 title: "Presentations from Day One"
 ---
 
+## Block One [(Video)](https://echo360.org.uk/media/9d588697-8d99-4fa1-af0b-f7e861e4735f/public){target="_blank"}
+
 ### Baseline for the Roundtable & Reflections on Draft Recommendation of the WG
 
 ##### Siva Thambisetty 
@@ -25,6 +27,10 @@ Agata Makowska-Curran from the LSE broke down the necessary components of any re
 Dr Kamath from the LSE explored the investor perspective on socially responsible investing and different approaches to regulation, including legislative and non-legislative approaches. She explained that sales, turnover and revenue are the same thing, and provided an exploration of how these metrics vary between companies by size, region or sector. She emphasised the power of disclosures for changing company behaviour and raised the issue of keeping the full value chain in view when assessing contributions for DSI products. Finally she presented a toy model developed in collaboration with Agata Makowska-Curran. While acknowledging assumptions made during the development of the model, they demonstrated the amounts of funding that would be needed to reach various sums for the global fund, either from a top-down approach by country, or bottom up approach by company.
 
 ###### [Slides](https://www.dropbox.com/scl/fi/m0radq2vc9apc2k1lscz7/Kamath_unlocking_private_capital.pptx?rlkey=i5kt0aji1k4etsl9v9es4vmqo&st=ew4m55xr&dl=0){target="_blank"} [Toy Model](https://www.dropbox.com/scl/fi/571c4fm7s0a4lm8yil9bo/Kamath_TOY_MODEL_To_be_printed.xlsx?rlkey=4ppi09aipdx0xq4caeokn5ejv&st=yh4yd2im&dl=0){target="_blank"}
+
+
+
+## Block Two
 
 ### Definitions and Triggers: Options A to D
 
