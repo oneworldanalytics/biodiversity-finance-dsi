@@ -116,4 +116,8 @@ A number of studies have been prepared or commissioned by different actors to in
 
 -   Oldham and Thambisetty 2024 [The Pandemic Access and Benefit Sharing System: Four Elements of a Trusted System](https://www.researchgate.net/publication/380164464_The_Pandemic_Access_and_Benefit_Sharing_System_Four_Elements_of_a_Trusted_System). Uses company and trade classification systems to identify options for securing contributions from companies.
 
+<br>
+
+*The LSE Roundtable on Global Biodiversity Finance and Digital Sequence Information was organised by the Ocean Biodiversity Collective and One World Analytics and facilitated by the Meridian Institute the Grantham Research Institute.*
+
 ![](footer.png){fig-align="center"}

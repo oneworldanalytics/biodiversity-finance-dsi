@@ -2,7 +2,7 @@
 title: "Presentations from Day One"
 ---
 
-## Block One - [Video](https://echo360.org.uk/media/9d588697-8d99-4fa1-af0b-f7e861e4735f/public){target="_blank"}
+## Block One - [Recording](https://echo360.org.uk/media/9d588697-8d99-4fa1-af0b-f7e861e4735f/public){target="_blank"}
 
 ### Baseline for Roundtable & Reflections on Draft Recommendation of the WG
 
@@ -28,11 +28,11 @@ Dr Kamath from the LSE explored the investor perspective on socially responsible
 
 ###### [Slides](https://www.dropbox.com/scl/fi/m0radq2vc9apc2k1lscz7/Kamath_unlocking_private_capital.pptx?rlkey=i5kt0aji1k4etsl9v9es4vmqo&st=ew4m55xr&dl=0){target="_blank"} [Toy Model](https://www.dropbox.com/scl/fi/571c4fm7s0a4lm8yil9bo/Kamath_TOY_MODEL_To_be_printed.xlsx?rlkey=4ppi09aipdx0xq4caeokn5ejv&st=yh4yd2im&dl=0){target="_blank"}
 
-## Block Two
+## Block Two - [Recording](https://echo360.org.uk/media/88fcad52-1d33-4497-b283-292359d6c482/public){target="_blank"}
 
 ### Definitions and Triggers: Options A to D
 
-##### Pedro Batisa
+##### Pedro Batisa (begins: 01:59)
 
 Pedro Batista from the Max Planck Institute presented the outcomes of his research evaluating the strengths and weaknesses of profits and sales and the strengths and weaknesses of Options A to D.
 
@@ -40,7 +40,7 @@ Pedro Batista from the Max Planck Institute presented the outcomes of his resear
 
 ### Capitalising the Global Fund: The Profit Scenario
 
-##### Matt Bassford
+##### Matt Bassford (begins: 20:18)
 
 Matt Bassford from the ICF reported on the findings of a report commissioned by DEFRA. The ICF reviewed different benefit sharing mechanisms for the MLM, assessing them based on the criteria in Decision 15/9. The conclusion was reached that a 1% levy on profits is the most viable option based on policy compliance and market impact.
 
@@ -48,7 +48,7 @@ Matt Bassford from the ICF reported on the findings of a report commissioned by 
 
 ### Profit vs Sales in Indigenous Land Negotiations
 
-##### Kyle Vermette
+##### Kyle Vermette (begins 33:00)
 
 Indigenous lawyer Kyle Vermette from the Firelight Group shared his perspective on the profits vs. sales debate, drawing from his experience in negotiations between Indigenous Peoples and oil companies. He explained that sales are the preferred metric in these discussions due to the unpredictable nature of profits in the sector. He also underscored the importance of paying nature first, framing this approach as one rooted in recognition and respect.
 
@@ -56,7 +56,7 @@ Indigenous lawyer Kyle Vermette from the Firelight Group shared his perspective 
 
 ### Fair and Equitable Matrix Based Sharing of Monetary Benefits Arising from the Utilization of DSI
 
-##### Andrew Niebler
+##### Andrew Niebler (begins 41:04)
 
 Andrew Niebler from Karner Blue Capital demonstrated that the value chain for DSI extends beyond a specific instance of the use of DSI in a product. He proposed stratification of companies by importance of DSI to their profits and presented a matrix-based approach to DSI contributions which took into account company size and importance of DSI to profits. He suggested staged implementation of the mechanism over time.
 
@@ -66,7 +66,7 @@ A further elaboration of Andrew Niebler's Matrix based approach is available [he
 
 ### The Impact of Sales vs Profits for Natura
 
-##### Ana Viana
+##### Ana Viana (begins: 52:02)
 
 Ana Viana from Natura Brasilia used Natura's financial records to illustrate the potential impact of different metrics on the company. She emphasized that Natura is already actively engaged in benefit-sharing under the Nagoya Protocol, and cautioned that without careful management, the obligation to share benefits under the mechanism could limit a company's ability to engage in bilateral agreements under the Nagoya framework.
 
@@ -74,11 +74,13 @@ Ana Viana from Natura Brasilia used Natura's financial records to illustrate the
 
 ### The 1% of Retail Proposal
 
-##### Pierre du Plessis
+##### Pierre du Plessis (begins: 1:02:14)
 
 Pierre du Plessis presented the Africa Group's proposal that contributions to the global fund should be collected from a 1% levy of the retail price of all bio-based products at the point of sale. Pierre clearly conveyed the urgency of the current climate crisis and the need for bold solutions to address the biodiversity finance gap.
 
 ###### [Slides](https://www.dropbox.com/scl/fi/ju6cf69ynesigj5stb5l7/Duplessis-Pierre-1pc-of-retail-proposal-for-LSE-Roundtable-27-Sep-2024.pptx?rlkey=qhx7mz910zrvtry0ahfxmrro6&st=w1ipwt9q&dl=0){target="_blank"}
+
+## Block Three - [Recording](https://echo360.org.uk/media/42a34477-858f-4489-bd55-63be24903bea/public){target="_blank"}
 
 ### Is a Duck a Fish? What UN Economic Classification Systems can do for DSI
 
@@ -88,9 +90,11 @@ Paul Oldham from One World Analytics explored the relationships between UN and n
 
 ###### [Slides](https://www.dropbox.com/scl/fi/6s9ptdi6vvi6w0c0sh3fm/oldham_isic_products_exports.pptx?rlkey=oz04x2gbn26cc5q7tbquh232x&st=cok5qbqm&dl=0){target="_blank"}
 
+## Block Four - [Recording](https://echo360.org.uk/media/8b98fb6b-4c9e-460a-a9bc-81e6ba1424b8/public){target="_blank"}
+
 ### The Value of DSI and DSI Data Sets
 
-##### Sarah Taylor
+##### Sarah Taylor (begins: 01:57)
 
 Sarah Taylor from the Water Research Centre explored potential methods for the valuation of DSI using natural capital accounting, discussing when and how data accrues value and different approaches to analysing the costs and values associated with data.
 
@@ -98,12 +102,16 @@ Sarah Taylor from the Water Research Centre explored potential methods for the v
 
 ### A Tariff Water Revenue Mechanism
 
-##### Stephanie Switzer
+##### Stephanie Switzer (begins: 14:38)
 
 Jasmine Kindness from One World Analytics summarised a proposal by Stephanie Switzer from the University of Strathclyde on a "Tariff Water Revenue Mechanism" whereby funds could be collected for the mechanism by adjusting the tariffs on internationally traded products. She explained that "tariff water" is the difference between a bound rate and an applied tariff rate.
 
 A further elaboration on the Tariff Water Revenue Mechanism by Stephanie Switzer is available [here](https://www.dropbox.com/scl/fi/d4j4gv5awcwuc1w06o7jl/Switzer-Tariff-Water-Revenue-Mechanism.pdf?rlkey=5g3lq2uau5o2llztdwvgp4cm3&st=ymx024hv&dl=0){target="_blank"}
 
 ###### [Slides](https://www.dropbox.com/scl/fi/gq8x0ur6lytrr70gyrhdc/Switzer-Kindness-Tariff-Water.pptx?rlkey=2xx4t6f77bvdnnxo5w1t7332s&st=2qhi3dj9&dl=0){target="_blank"}
+
+<br>
+
+*The LSE Roundtable on Global Biodiversity Finance and Digital Sequence Information was organised by the Ocean Biodiversity Collective and One World Analytics and facilitated by the Meridian Institute the Grantham Research Institute.*
 
 ![](footer.png){fig-align="center"}
