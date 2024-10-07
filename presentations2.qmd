@@ -2,7 +2,7 @@
 title: "Presentations from Day Two"
 ---
 
-## Block One [Recording](https://echo360.org.uk/media/cdd5970c-c531-4e37-ac10-b426b42171b5/public){target="_blank"}
+## Block One - [Recording](https://echo360.org.uk/media/cdd5970c-c531-4e37-ac10-b426b42171b5/public){target="_blank"}
 
 ### Data Valuation, Trust and the Sovereign Commons License
 
@@ -38,7 +38,7 @@ Alvaro Toledo from the Plant Treaty Secretariat discussed the subscription model
 
 (No links available)
 
-## Block Two [Recording](https://echo360.org.uk/media/e37a6f46-fbef-4e21-8eab-453644bf39c4/public){target="_blank"}
+## Block Two - [Recording](https://echo360.org.uk/media/e37a6f46-fbef-4e21-8eab-453644bf39c4/public){target="_blank"}
 
 ### GBIF's Approach to Open Access to Data within a Framework of Trust and Transparency
 
