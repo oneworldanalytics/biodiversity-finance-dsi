@@ -2,7 +2,7 @@
 title: "Presentations from Day Two"
 ---
 
-## Block One [(Recording)](https://echo360.org.uk/media/cdd5970c-c531-4e37-ac10-b426b42171b5/public)
+## Block One [(Recording)](https://echo360.org.uk/media/cdd5970c-c531-4e37-ac10-b426b42171b5/public){target="_blank"}
 
 ### Data Valuation, Trust and the Sovereign Commons License
 
