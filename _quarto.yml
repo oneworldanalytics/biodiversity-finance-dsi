@@ -9,9 +9,7 @@ website:
       - href: index.qmd
         text: Background
       - href: presentations.qmd
-        text: Day One
-      - href: presentations2.qmd
-        text: Day Two
+        text: Presentations
 
 
 
