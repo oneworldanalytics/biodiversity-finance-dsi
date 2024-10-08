@@ -12,13 +12,13 @@ c\) How can trust be promoted in the DSI data ecosystem?
 
 The views in this Ways Forward document reflect the analysis of LSE team members based on the discussions at the Roundtable. Full materials from the Roundtable are available [here](https://oneworldanalytics.com/biodiversity-finance-dsi/presentations.html).
 
-**The Size of the Fund**
+### **The Size of the Fund**
 
 DSI is a digital economic asset of global importance. A range of methods are available for valuing data, but to date, no work has been initiated to establish the value of DSI based on the quality and informational content of the asset. The transition to natural capital accounting provides an opportunity to assess the value of DSI data within the United Nations System of National Accounts (the SNA) and wider UN economic reporting framework. Parties may wish to initiate further work on approaches to valuing DSI within the context of natural capital accounting and the UN system for economic reporting (see also Decision 15/5, para 4).
 
 In the absence of work on DSI valuation, a decision on the size of the fund is essentially political. Parties may wish to create a means for measuring future success by establishing an interim target as a *floor* for the fund that can be scaled up based on operational experience and an improved process for DSI valuation. To explore this, a ‘[toy model](https://www.dropbox.com/scl/fi/571c4fm7s0a4lm8yil9bo/Kamath_TOY_MODEL_To_be_printed.xlsx?rlkey=4ppi09aipdx0xq4caeokn5ejv&st=yh4yd2im&dl=0)’ for a fund of US\$2-20 billion per year was created to assess contributions divided by country and weighted by annual GDP. Parties are invited to consider supporting further work on economic modelling to assess scenarios for the fund including different thresholds for contributions.
 
-**Who Should Pay?**
+### **Who Should Pay?**
 
 A [model](https://www.dropbox.com/scl/fi/12pytjixbvmawio869dwf/Makowska-Revenue-Model-Components-Table-PRINTED.pptx?rlkey=b8hxgviuu29gojol7bfgxzzlq&st=t0haqk1u&dl=0) of Options A to D identified sources of information available to governments or to the public and considered the as yet undefined concept of ‘DSI reliance’.^[\[1\]](#_ftn1)^  Given the data sources presently available, attempts to define ‘DSI reliant’ products with legal certainty are likely to fail.
 
@@ -38,7 +38,7 @@ Experience in the EU strongly suggests that ‘opt out’ approaches to contribu
 
 Contributions from entities should be based on guiding principles such as the FRETAP principles: that they be Fair (apply to all), Reasonable (e.g. not 99% of sales), Equitable (across economies), Transparent (public) and Predictable.^[\[3\]](#_ftn3)^
 
-**Creating Trust by Doing:  Conditions for Trust in the DSI Data Ecosystem**
+### **Creating Trust by Doing: Conditions for Trust in the DSI Data Ecosystem**
 
 Decision 15/9 includes references to the 2021 UNESCO Recommendation on Open Science, the OECD Recommendation on Enhancing Access to and Sharing of Data, the FAIR and CARE principles and encourages the deposit of DSI in public databases. In order to operationalise these goals and ensure a return for biodiversity from the use of global public DSI data a new architecture of trust is needed in the DSI ecosystem. That trust can only be achieved through practical action.
 
