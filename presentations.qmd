@@ -1,5 +1,6 @@
 ---
 title: "Presentations from the LSE Roundtable"
+image: pointing_to_cali.jpeg
 ---
 
 ## Block One - [Recording](https://echo360.org.uk/media/9d588697-8d99-4fa1-af0b-f7e861e4735f/public){target="_blank"}
