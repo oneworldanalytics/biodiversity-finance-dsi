@@ -1,5 +1,6 @@
 ---
 title: ""
+image: pointing_to_cali.jpeg
 ---
 
 ### Key Resources
