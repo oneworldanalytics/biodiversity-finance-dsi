@@ -3,6 +3,8 @@ project:
   output-dir: docs
 
 website:
+  twitter-card:
+    image: baobab_tree.jpg
   body-footer: |
         <!-- 100% privacy-first analytics -->
         <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
