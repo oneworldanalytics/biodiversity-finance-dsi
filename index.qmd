@@ -1,6 +1,6 @@
 ---
 title: ""
-image: point2.jpeg
+image: baobab_small.jpeg
 ---
 
 ### Key Resources
