@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  twitter-card:
-    image: "https://github.com/oneworldanalytics/biodiversity-finance-dsi/blob/master/baobab_tree.jpg"
+  twitter-card: true
+  image: "https://github.com/oneworldanalytics/biodiversity-finance-dsi/blob/master/baobab_tree.jpg"
   body-footer: |
         <!-- 100% privacy-first analytics -->
         <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
