@@ -4,7 +4,8 @@ project:
 
 website:
   twitter-card: true
-  image: pointing_to_cali.jpeg
+  image: "https://github.com/oneworldanalytics/biodiversity-finance-dsi/blob/master/pointing_to_cali.jpeg"
+  #pointing_to_cali.jpeg
   #"https://github.com/oneworldanalytics/biodiversity-finance-dsi/blob/master/baobab_tree.jpg"
   body-footer: |
         <!-- 100% privacy-first analytics -->
