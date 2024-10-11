@@ -58,3 +58,14 @@ a:active {
   color: maroon !important;
 }
 
+.center-button {
+    display: flex;
+    justify-content: center; /* Center the button horizontally */
+    margin-top: 20px; /* Optional: Add some space above */
+}
+
+.custom-pdf-btn {
+    background-color: #e30520; /* Replace with your desired hex color */
+    color: #FFFFFF; /* Optional: ensure text is readable */
+}
+
