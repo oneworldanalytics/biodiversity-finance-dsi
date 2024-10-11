@@ -175,9 +175,8 @@ Chuck Cook from the Global Biodata Coalition emphasized that sequence data gains
 
 ###### [Slides](https://www.dropbox.com/scl/fi/fgcmknk5i4tadi23ev3v8/Cook_Global_Biodata_LSE_roundtable.pdf?rlkey=m7rbehdgm7u8ort50ghidj10p&st=ry7riq5j&dl=0)
 
-
 <br>
 
-*The LSE Roundtable on Global Biodiversity Finance and Digital Sequence Information was organised by the Ocean Biodiversity Collective (funded by LSE Knowledge Exchange and Impact) and One World Analytics; and facilitated by the Meridian Institute and the Grantham Research Institute. We are grateful for substantial funding from NORAD. For more information contact Dr Siva Thambisetty (LSE Law School) s.thambisetty\@lse.ac.uk or Dr Paul Oldham (OWA) poldham\@oneworldanalytics.com. For queries about the website contact Jasmine Kindness: jasmine@oneworldanalytics.com*
+*The LSE Roundtable on Global Biodiversity Finance and Digital Sequence Information was organised by the Ocean Biodiversity Collective (funded by LSE Knowledge Exchange and Impact) and One World Analytics; and facilitated by the Meridian Institute and the Grantham Research Institute. We are grateful for substantial funding from NORAD. For more information contact Dr Siva Thambisetty (LSE Law School) s.thambisetty\@lse.ac.uk or Dr Paul Oldham (OWA) poldham\@oneworldanalytics.com. For queries about the website contact Jasmine Kindness: jasmine\@oneworldanalytics.com*
 
 ![](footer.png){fig-align="center"}
