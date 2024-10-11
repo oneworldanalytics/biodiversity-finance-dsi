@@ -3,7 +3,7 @@ title: "Presentations from the LSE Roundtable"
 image: baobab_small.png
 ---
 
-## Setting the scene and LSE Expert Assessments - [Recording](https://echo360.org.uk/media/9d588697-8d99-4fa1-af0b-f7e861e4735f/public){target="_blank"}
+## Block One - [Recording](https://echo360.org.uk/media/9d588697-8d99-4fa1-af0b-f7e861e4735f/public){target="_blank"}
 
 ### Baseline for Roundtable & Reflections on Draft Recommendation of the WG
 
@@ -29,7 +29,7 @@ Dr Kamath from the LSE explored the investor perspective on socially responsible
 
 ###### [Slides](https://www.dropbox.com/scl/fi/m0radq2vc9apc2k1lscz7/Kamath_unlocking_private_capital.pptx?rlkey=i5kt0aji1k4etsl9v9es4vmqo&st=ew4m55xr&dl=0){target="_blank"} [Toy Model](https://www.dropbox.com/scl/fi/571c4fm7s0a4lm8yil9bo/Kamath_TOY_MODEL_To_be_printed.xlsx?rlkey=4ppi09aipdx0xq4caeokn5ejv&st=yh4yd2im&dl=0){target="_blank"}
 
-## Perspectives on Options A to D - [Recording](https://echo360.org.uk/media/88fcad52-1d33-4497-b283-292359d6c482/public){target="_blank"}
+## Block Two - [Recording](https://echo360.org.uk/media/88fcad52-1d33-4497-b283-292359d6c482/public){target="_blank"}
 
 ### Definitions and Triggers: Options A to D
 
@@ -83,7 +83,7 @@ Pierre du Plessis presented the Africa Group's proposal that contributions to th
 
 ###### [Slides](https://www.dropbox.com/scl/fi/ju6cf69ynesigj5stb5l7/Duplessis-Pierre-1pc-of-retail-proposal-for-LSE-Roundtable-27-Sep-2024.pptx?rlkey=qhx7mz910zrvtry0ahfxmrro6&st=w1ipwt9q&dl=0){target="_blank"}
 
-## Classification Systems for Companies and Products - [Recording](https://echo360.org.uk/media/42a34477-858f-4489-bd55-63be24903bea/public){target="_blank"}
+## Block Three - [Recording](https://echo360.org.uk/media/42a34477-858f-4489-bd55-63be24903bea/public){target="_blank"}
 
 ### Is a Duck a Fish? What UN Economic Classification Systems can do for DSI
 
@@ -93,7 +93,7 @@ Paul Oldham from One World Analytics explored the relationships between UN and n
 
 ###### [Slides](https://www.dropbox.com/scl/fi/6s9ptdi6vvi6w0c0sh3fm/oldham_isic_products_exports.pptx?rlkey=oz04x2gbn26cc5q7tbquh232x&st=cok5qbqm&dl=0){target="_blank"}
 
-## Alternative Approaches to Value and Contributions - [Recording](https://echo360.org.uk/media/8b98fb6b-4c9e-460a-a9bc-81e6ba1424b8/public){target="_blank"}
+## Block Four - [Recording](https://echo360.org.uk/media/8b98fb6b-4c9e-460a-a9bc-81e6ba1424b8/public){target="_blank"}
 
 ### The Value of DSI and DSI Data Sets
 
@@ -149,7 +149,7 @@ Alvaro Toledo from the Plant Treaty Secretariat discussed the subscription model
 
 (No links available)
 
-## The Present Biodata Landscape - [Recording](https://echo360.org.uk/media/e37a6f46-fbef-4e21-8eab-453644bf39c4/public){target="_blank"}
+## Block Six - [Recording](https://echo360.org.uk/media/e37a6f46-fbef-4e21-8eab-453644bf39c4/public){target="_blank"}
 
 ### GBIF's Approach to Open Access to Data within a Framework of Trust and Transparency
 
